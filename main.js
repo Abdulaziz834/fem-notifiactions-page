@@ -1,0 +1,1 @@
+document.querySelector(".new-messages").textContent = document.querySelectorAll(".notification.unread").length
